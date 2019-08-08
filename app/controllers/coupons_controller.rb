@@ -1,28 +1,28 @@
 class CouponsController < ApplicationController
 
 
-  def index 
+  def index
 
-  end 
+  end
 
 
-  def show 
+  def show
 
 
   end
 
 
-  def new 
+  def new
 
 
-  end 
+  end
 
 
-  def create 
+  def create
 
 
 
-  end 
+  end
 
 
 
@@ -30,4 +30,3 @@ class CouponsController < ApplicationController
 
 
 end 
-
